@@ -8,6 +8,6 @@ class Dummy
   end
 
   def self.version
-    puts "8"
+    puts "9"
   end
 end
