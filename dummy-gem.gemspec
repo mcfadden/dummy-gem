@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "dummy-gem"
-  s.version     = "7.0.0"
+  s.version     = "8.0.0"
   s.summary     = "Hi"
   s.description = "An exmaple gem to demo a bug"
   s.authors     = ["Ben McFadden"]
