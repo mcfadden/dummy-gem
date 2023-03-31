@@ -10,4 +10,8 @@ class Dummy
   def self.hello_again_again
     puts "Hello again again"
   end
+
+  def self.version
+    puts "version"
+  end
 end
