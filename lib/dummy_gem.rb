@@ -7,10 +7,6 @@ class Dummy
     puts "Hello again"
   end
 
-  def self.hello_again_again
-    puts "Hello again again"
-  end
-
   def self.version
     puts "6"
   end
