@@ -12,6 +12,6 @@ class Dummy
   end
 
   def self.version
-    puts "3"
+    puts "4"
   end
 end
